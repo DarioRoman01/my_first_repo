@@ -38,7 +38,7 @@ poner diagramas de secuencia, uml, etc
 
 ### Data Base design
 
-![](.gitbook/assets/django.png)
+![](.gitbook/assets/sin-titulo.png)
 
 ## Limitations
 
